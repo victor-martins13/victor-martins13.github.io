@@ -1,0 +1,83 @@
+h2 {
+    color: rgb(44, 49, 49);
+}
+
+body {
+    background-color: rgb(216, 226, 224);
+}
+
+h1,
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+ul {
+    font-style: italic;
+    
+}
+.descrição {
+    font-size: 18px;
+    font-family: fantasy;
+   
+   
+
+}   
+.proatividade {
+    font-size: 18px;
+}
+.Flexibilidade {
+    font-size: 18px;
+}
+.trabalhoemequipe {
+    font-size: 18px;
+}
+.empatia {
+    font-size: 18px;
+
+}
+.etica {
+    font-size: 18px;
+}
+.atitude {
+    font-size: 18px;
+    font-style: italic
+}
+.git {
+    font-size: 18px;
+}
+.github {
+    font-size: 18px;
+}
+.html {
+    font-size: 18px;
+}
+.css {
+    font-size: 18px;
+}
+.exel {
+    font-size: 18px;
+}
+
+.image {
+border: 2px;
+float: left;
+height: 100px;
+}
+.image-coutenier {
+    height: 90px;
+    margin: 50px 30px;
+}
+.button {
+    color: aliceblue;
+    background-color: aquamarine;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+.habilidade {
+    text-align: center;
+}
